@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "125+ Let's keep adding on!",
+        name: "135+ Let's keep adding on!",
         // Activity type number (0 = Playing).
         type: 0,
       },
@@ -462,7 +462,7 @@ export const botConfig = {
     tools: true,
     utility: true,
     community: true,
-    fun: true,
+    fun: false,
   },
 };
 
